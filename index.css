@@ -1,0 +1,54 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing:0;
+}
+.container{
+    width:550px;
+    height: 729px;
+   
+    margin:auto;
+}
+.header{
+ 
+    background-color:#6943FF;
+    color:white;
+    text-align: center;
+    padding: 20px;
+ 
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+span{
+border: 1px solid white;
+padding: 5px 20px;
+font-size: 40px;
+margin: 30px 0 20px 0;
+border-radius: 5px;
+font-weight: bold;
+}
+
+button{
+    border-radius: 5px;
+    margin-top: 30px;
+    padding: 10px;
+    font-size: 15px;
+   
+}
+
+.units{
+   
+    text-align: center;
+  
+    
+}
+.box{
+    width: 500px;
+    height: 109px;
+    background-color:rgb(116, 105, 105);
+    margin: auto;
+    
+}
